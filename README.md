@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/50596634/58734349-9aca6300-83cd-11e9-82ba-e15206585f35.png)
 
-be more fast with math, dude.
+be more fast with (i think) everything, dude.
 
 # Look this project on pypi, dude!
 i couldn't upload it :(
@@ -17,11 +17,10 @@ i couldn't upload it :(
 
 `divide(x, y)` divides (two) numbers(x, y). 
 
+there's more at the docs...
 ![howtoinstall](https://user-images.githubusercontent.com/50596634/58734347-9a31cc80-83cd-11e9-8b2f-5dc09aae87dc.png)
-make (i think) math easy on your program,
-look on the docs for more info.
-
 i'm gonna try upload it on binaries releases..
+
 # That's All Folks!
 Follow me on [my Github](https://github.com/alexandertheNotGreat)!
 > Clumpsy ;9
